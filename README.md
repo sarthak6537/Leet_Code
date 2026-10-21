@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak6537/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
