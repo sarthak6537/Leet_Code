@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarthak6537/Leet_Code/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/sarthak6537/Leet_Code/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/sarthak6537/Leet_Code/tree/master/0860-lemonade-change) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak6537/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarthak6537/Leet_Code/tree/master/0001-two-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak6537/Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak6537/Leet_Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
