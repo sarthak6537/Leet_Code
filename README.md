@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sarthak6537/Leet_Code/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -51,5 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
