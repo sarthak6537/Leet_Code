@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak6537/Leet_Code/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/sarthak6537/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sarthak6537/Leet_Code/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/sarthak6537/Leet_Code/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sarthak6537/Leet_Code/tree/master/0881-boats-to-save-people) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak6537/Leet_Code/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/sarthak6537/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak6537/Leet_Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak6537/Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak6537/Leet_Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sarthak6537/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak6537/Leet_Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
