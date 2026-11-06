@@ -79,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sarthak6537/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak6537/Leet_Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
