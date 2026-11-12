@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sarthak6537/Leet_Code/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sarthak6537/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/sarthak6537/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sarthak6537/Leet_Code/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/sarthak6537/Leet_Code/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sarthak6537/Leet_Code/tree/master/0881-boats-to-save-people) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthak6537/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sarthak6537/Leet_Code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
