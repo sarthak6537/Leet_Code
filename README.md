@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Timsort
 |  |
 | ------- |
