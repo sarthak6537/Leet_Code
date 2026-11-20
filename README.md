@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak6537/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthak6537/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
