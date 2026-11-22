@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sarthak6537/Leet_Code/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/sarthak6537/Leet_Code/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/sarthak6537/Leet_Code/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak6537/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/sarthak6537/Leet_Code/tree/master/0038-count-and-say) |
+| [0392-is-subsequence](https://github.com/sarthak6537/Leet_Code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak6537/Leet_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarthak6537/Leet_Code/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sarthak6537/Leet_Code/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
