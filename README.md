@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sarthak6537/Leet_Code/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sarthak6537/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak6537/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak6537/Leet_Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthak6537/Leet_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak6537/Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthak6537/Leet_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarthak6537/Leet_Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak6537/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sarthak6537/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak6537/Leet_Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak6537/Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak6537/Leet_Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sarthak6537/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak6537/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak6537/Leet_Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthak6537/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sarthak6537/Leet_Code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
