@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak6537/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sarthak6537/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sarthak6537/Leet_Code/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/sarthak6537/Leet_Code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarthak6537/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/sarthak6537/Leet_Code/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/sarthak6537/Leet_Code/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sarthak6537/Leet_Code/tree/master/0392-is-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sarthak6537/Leet_Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
